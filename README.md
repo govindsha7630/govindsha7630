@@ -19,6 +19,21 @@ Currently I’m expanding my knowledge in **React ecosystem, state management, a
 🎯 **Goal:** Become a professional frontend developer and contribute to meaningful web products.
 
 ---
+# 🔥 Currently Working On
+
+📝 **Full Todo Application**
+
+Features:
+
+• Login / Signup authentication
+• State management with Redux
+• Backend integration with Appwrite
+• Modern UI using TailwindCSS
+• Multiple npm libraries for improved functionality
+
+This project focuses on **real-world application architecture**.
+
+---
 
 # 🌐 Portfolio Projects
 
@@ -70,21 +85,7 @@ These projects helped me strengthen my **JavaScript and DOM skills**:
 
 ---
 
-# 🔥 Currently Working On
 
-📝 **Full Todo Application**
-
-Features:
-
-• Login / Signup authentication
-• State management with Redux
-• Backend integration with Appwrite
-• Modern UI using TailwindCSS
-• Multiple npm libraries for improved functionality
-
-This project focuses on **real-world application architecture**.
-
----
 
 # 📊 GitHub Stats
 
