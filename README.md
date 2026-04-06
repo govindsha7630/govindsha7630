@@ -105,11 +105,25 @@ These projects helped me strengthen my **JavaScript and DOM skills**:
 
 # 🤝 Connect With Me
 
-<p>
+<!-- <div display = 'flex' gap='60px'> -->
+<span> 
 <a href="https://linkedin.com/in/govind7630">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-</p>
+</span>
+  
+<span>
+<a href="https://dev.to/goku7630">
+<img src="https://skillicons.dev/icons?i=devto"/>
+</a>
+</span>
+<span>
+<a href="https://x.com/itsGoku7630">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+</span>
+<!-- </div> -->
+
 
 ---
 
