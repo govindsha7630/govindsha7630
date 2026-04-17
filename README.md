@@ -51,7 +51,7 @@ https://edunova-campus.netlify.app/
 Interactive world explorer project built using modern frontend practices.
 
 🔗 Live Demo
-https://globescope-explorer.netlify.app/
+[https://globescope-explorer.netlify.app](https://globe-scope-explorer.vercel.app/)/
 
 ---
 
